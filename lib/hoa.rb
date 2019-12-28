@@ -6,7 +6,7 @@ BASE_HOA = {
 
 
 def add_character(show, name)
-  show[name]
+  show[name][name]
   show
   
   # Write your implementation here
